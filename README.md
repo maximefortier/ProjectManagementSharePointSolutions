@@ -1,4 +1,4 @@
-# ProjectManagementSharePointWorkflows
+# Project Management SharePoint Solutions
 Collection of Microsoft SharePoint 2013 
 - Workflows
 - Lists
